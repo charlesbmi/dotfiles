@@ -149,6 +149,16 @@
         "lastUpdated": "2026-01-29T06:32:37.177Z",
         "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
       }
+    ],
+    "mgrep@Mixedbread-Grep": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/Mixedbread-Grep/mgrep/0.0.0",
+        "version": "0.0.0",
+        "installedAt": "2026-01-29T06:45:12.660Z",
+        "lastUpdated": "2026-01-29T06:45:12.660Z",
+        "gitCommitSha": "fe2c523686e9a98a983660d0aa253ffdc097faf7"
+      }
     ]
   }
 }

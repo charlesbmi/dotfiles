@@ -21,6 +21,14 @@
       "url": "https://github.com/anthropics/claude-plugins-official.git"
     },
     "installLocation": "/Users/cguan/.claude/plugins/marketplaces/claude-plugins-official",
-    "lastUpdated": "2026-01-29T06:25:55.314Z"
+    "lastUpdated": "2026-01-29T06:44:39.675Z"
+  },
+  "Mixedbread-Grep": {
+    "source": {
+      "source": "github",
+      "repo": "mixedbread-ai/mgrep"
+    },
+    "installLocation": "/Users/cguan/.claude/plugins/marketplaces/Mixedbread-Grep",
+    "lastUpdated": "2026-01-29T06:44:47.484Z"
   }
 }
