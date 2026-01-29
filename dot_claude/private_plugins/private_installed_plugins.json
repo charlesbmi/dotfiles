@@ -1,0 +1,154 @@
+{
+  "version": 2,
+  "plugins": {
+    "astral@astral-sh": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/astral-sh/astral/0.1.0",
+        "version": "0.1.0",
+        "installedAt": "2026-01-29T06:08:52.493Z",
+        "lastUpdated": "2026-01-29T06:08:52.493Z"
+      }
+    ],
+    "code-review@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/claude-plugins-official/code-review/d49ad3558669",
+        "version": "d49ad3558669",
+        "installedAt": "2026-01-29T06:27:45.003Z",
+        "lastUpdated": "2026-01-29T06:27:45.003Z",
+        "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
+      }
+    ],
+    "github@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/claude-plugins-official/github/d49ad3558669",
+        "version": "d49ad3558669",
+        "installedAt": "2026-01-29T06:27:50.029Z",
+        "lastUpdated": "2026-01-29T06:27:50.029Z",
+        "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
+      }
+    ],
+    "feature-dev@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/claude-plugins-official/feature-dev/d49ad3558669",
+        "version": "d49ad3558669",
+        "installedAt": "2026-01-29T06:27:53.897Z",
+        "lastUpdated": "2026-01-29T06:27:53.897Z",
+        "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
+      }
+    ],
+    "code-simplifier@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/claude-plugins-official/code-simplifier/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-01-29T06:27:59.088Z",
+        "lastUpdated": "2026-01-29T06:27:59.088Z",
+        "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
+      }
+    ],
+    "ralph-loop@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/claude-plugins-official/ralph-loop/d49ad3558669",
+        "version": "d49ad3558669",
+        "installedAt": "2026-01-29T06:28:03.723Z",
+        "lastUpdated": "2026-01-29T06:28:03.723Z",
+        "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
+      }
+    ],
+    "commit-commands@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/claude-plugins-official/commit-commands/d49ad3558669",
+        "version": "d49ad3558669",
+        "installedAt": "2026-01-29T06:28:07.354Z",
+        "lastUpdated": "2026-01-29T06:28:07.354Z",
+        "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
+      }
+    ],
+    "pr-review-toolkit@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/claude-plugins-official/pr-review-toolkit/d49ad3558669",
+        "version": "d49ad3558669",
+        "installedAt": "2026-01-29T06:28:17.802Z",
+        "lastUpdated": "2026-01-29T06:28:17.802Z",
+        "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
+      }
+    ],
+    "security-guidance@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/claude-plugins-official/security-guidance/d49ad3558669",
+        "version": "d49ad3558669",
+        "installedAt": "2026-01-29T06:28:22.869Z",
+        "lastUpdated": "2026-01-29T06:28:22.869Z",
+        "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
+      }
+    ],
+    "atlassian@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/claude-plugins-official/atlassian/7caef65e1070",
+        "version": "7caef65e1070",
+        "installedAt": "2026-01-29T06:28:40.934Z",
+        "lastUpdated": "2026-01-29T06:28:40.934Z",
+        "gitCommitSha": "7caef65e1070f5219efa018fa0b1023738dbd56b"
+      }
+    ],
+    "superpowers@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/claude-plugins-official/superpowers/4.1.1",
+        "version": "4.1.1",
+        "installedAt": "2026-01-29T06:29:48.925Z",
+        "lastUpdated": "2026-01-29T06:29:48.925Z",
+        "gitCommitSha": "469a6d81ebb8b827e284d4afb090c6c622d97747"
+      }
+    ],
+    "learning-output-style@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/claude-plugins-official/learning-output-style/d49ad3558669",
+        "version": "d49ad3558669",
+        "installedAt": "2026-01-29T06:30:08.531Z",
+        "lastUpdated": "2026-01-29T06:30:08.531Z",
+        "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
+      }
+    ],
+    "claude-md-management@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/claude-plugins-official/claude-md-management/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-01-29T06:30:15.850Z",
+        "lastUpdated": "2026-01-29T06:30:15.850Z",
+        "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
+      }
+    ],
+    "hookify@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/claude-plugins-official/hookify/d49ad3558669",
+        "version": "d49ad3558669",
+        "installedAt": "2026-01-29T06:31:22.888Z",
+        "lastUpdated": "2026-01-29T06:31:22.888Z",
+        "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
+      }
+    ],
+    "claude-code-setup@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "/Users/cguan/.claude/plugins/cache/claude-plugins-official/claude-code-setup/1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-01-29T06:32:37.177Z",
+        "lastUpdated": "2026-01-29T06:32:37.177Z",
+        "gitCommitSha": "d49ad355866978f67129695a5b6dbdbff5feb951"
+      }
+    ]
+  }
+}
