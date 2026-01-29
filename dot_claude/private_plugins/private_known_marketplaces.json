@@ -1,0 +1,26 @@
+{
+  "everything-claude-code": {
+    "source": {
+      "source": "github",
+      "repo": "affaan-m/everything-claude-code"
+    },
+    "installLocation": "/Users/cguan/.claude/plugins/marketplaces/everything-claude-code",
+    "lastUpdated": "2026-01-29T01:05:09.857Z"
+  },
+  "astral-sh": {
+    "source": {
+      "source": "github",
+      "repo": "astral-sh/claude-code-plugins"
+    },
+    "installLocation": "/Users/cguan/.claude/plugins/marketplaces/astral-sh",
+    "lastUpdated": "2026-01-29T06:08:26.617Z"
+  },
+  "claude-code-plugins": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-code"
+    },
+    "installLocation": "/Users/cguan/.claude/plugins/marketplaces/claude-code-plugins",
+    "lastUpdated": "2026-01-29T06:19:21.972Z"
+  }
+}
