@@ -1,12 +1,4 @@
 {
-  "everything-claude-code": {
-    "source": {
-      "source": "github",
-      "repo": "affaan-m/everything-claude-code"
-    },
-    "installLocation": "/Users/cguan/.claude/plugins/marketplaces/everything-claude-code",
-    "lastUpdated": "2026-01-29T01:05:09.857Z"
-  },
   "astral-sh": {
     "source": {
       "source": "github",
